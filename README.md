@@ -101,8 +101,6 @@ To submit to the challenge you'll need to ensure you've set up an appropriate re
 
 ### Repository Structure
 
-We have created a sample submission repository which you can use as reference. You can find it [here](https://gitlab.aicrowd.com/aicrowd-bot/snakes_challenge_sample_submission)
-
 #### aicrowd.json
 Each repository should have a aicrowd.json file with the following fields:
 
